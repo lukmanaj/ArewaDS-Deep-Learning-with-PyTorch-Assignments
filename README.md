@@ -10,5 +10,5 @@ The following are the contents covered by week (to be updated):
 |2|PyTorch Workflow|
 |3|PyTorch Neural Network Classification|
 |4|PyTorch Computer Vision|
-|5|PyTorch Custom Datasets PyTorch Going Modular|
+|5|PyTorch Custom Datasets and PyTorch Going Modular|
 |6|PyTorch Transfer Learning|
