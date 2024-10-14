@@ -2,7 +2,7 @@
 
 This repository contains the weekly assignments for the Arewa Data Science Academy Deep Learning with PyTorch fellowship, as contained [here](https://github.com/arewadataScience/ArewaDS-Deep-Learning).
 
-The following are the topics covered by week (to be updated as we treat them):
+The following are the topics covered by week:
 
 |Week|Topic|
 |---|----|
